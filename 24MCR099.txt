@@ -2,3 +2,4 @@ Name : T.Senthilkumar
 Reg No : 24MCR099
 Dept : MCA
 Fav : App Development 
+Mobile Model : Realme X7 5G
